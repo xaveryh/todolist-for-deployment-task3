@@ -12,7 +12,7 @@ public class TodoController : ControllerBase
 
 
     // GET / route
-    [HttpGet]
+    [HttpGet("/todo")]
     public IActionResult GetTodos()
     {
         var user = GetUser();
@@ -21,7 +21,7 @@ public class TodoController : ControllerBase
     }
 
     // POST / route
-    [HttpPost]
+    [HttpPost("/todo")]
     public IActionResult AddTodo([FromBody] string task)
     {
         var user = GetUser();

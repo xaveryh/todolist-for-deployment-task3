@@ -3,8 +3,6 @@
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.MvcApplicationPartsAssemblyInfo.cache
-/home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.RazorAssemblyInfo.cache
-/home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.RazorAssemblyInfo.cs
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.sourcelink.json
 /home/xaveryh/Temp/todolist/bin/Debug/net8.0/appsettings.Development.json
 /home/xaveryh/Temp/todolist/bin/Debug/net8.0/appsettings.json
@@ -21,11 +19,11 @@
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.todolist.props
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.todolist.props
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/staticwebassets.pack.json
-/home/xaveryh/Temp/todolist/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/scopedcss/bundle/todolist.styles.css
-/home/xaveryh/Temp/todolist/obj/Debug/net8.0/scopedcss/projectbundle/todolist.bundle.scp.css
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.dll
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/refint/todolist.dll
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.pdb
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
 /home/xaveryh/Temp/todolist/obj/Debug/net8.0/ref/todolist.dll
+/home/xaveryh/Temp/todolist/bin/Debug/net8.0/Views/package-lock.json
+/home/xaveryh/Temp/todolist/bin/Debug/net8.0/Views/package.json
