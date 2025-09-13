@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w1nc8s5dAFTxFncV+Wxs9EL5JfUDcgSQWk2FO0a0gqk=",
+  "Hash": "68r5vUMH47oYkX+udKwT5wFBYn/m9sQumjsmcaLdirI=",
   "Source": "todolist",
   "BasePath": "_content/todolist",
   "Mode": "Default",
@@ -15,5 +15,63 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "/home/xaveryh/Temp/todolist/wwwroot/assets/index-CvJs2XqK.js",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/xaveryh/Temp/todolist/wwwroot/",
+      "BasePath": "_content/todolist",
+      "RelativePath": "assets/index-CvJs2XqK.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-CvJs2XqK.js"
+    },
+    {
+      "Identity": "/home/xaveryh/Temp/todolist/wwwroot/assets/index-DvmRjzt9.css",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/xaveryh/Temp/todolist/wwwroot/",
+      "BasePath": "_content/todolist",
+      "RelativePath": "assets/index-DvmRjzt9.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-DvmRjzt9.css"
+    },
+    {
+      "Identity": "/home/xaveryh/Temp/todolist/wwwroot/index.html",
+      "SourceId": "todolist",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/xaveryh/Temp/todolist/wwwroot/",
+      "BasePath": "_content/todolist",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
 }
